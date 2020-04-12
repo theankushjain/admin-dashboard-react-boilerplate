@@ -16,7 +16,7 @@ class HelloWorld extends Component {
   render() {
     return (
       <Content
-        title="CodeInGrid"
+        title="Hello World"
         subTitle="Getting started with adminlte-2-react"
         browserTitle="Hello World"
       >
@@ -47,8 +47,8 @@ class Dashboard extends Component {
   render() {
     return (
       <AdminLTE
-        title={["Cloud", "InGrid"]}
-        titleShort={["Cl", "IG"]}
+        title={["Hello", "World"]}
+        titleShort={["He", "Wo"]}
         theme="blue"
         sidebar={this.sidebar}
       >
