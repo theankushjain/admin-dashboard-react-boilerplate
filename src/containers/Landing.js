@@ -1,7 +1,5 @@
 import React from "react";
 //import "./Landing.css";
-import cloudingridouterlogo from "./../images/cloudingridouterlogo.png";
-import cloudingridinnerlogo from "./../images/cloudingridinnerlogo.png";
 // import {Button} from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Particles from "react-particles-js";

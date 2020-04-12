@@ -19,7 +19,7 @@ function App(props) {
           setDashboard(true);
         //AUTHENTICATION LOGIC GOES HERE
         // await Auth.currentSession();
-        userHasAuthenticated(false);
+        userHasAuthenticated(false); //SET THIS TO TRUE ONCE AUTHENTICATION IMPLEMENTED
       }
       catch(e) {
         if (e !== 'No current user') {
