@@ -48,7 +48,7 @@ function App(props) {
         <Navbar fluid collapseOnSelect>
           <Navbar.Header>
             <Navbar.Brand>
-              <Link to="/">CloudInGrid</Link>
+              <Link to="/">Hello World</Link>
             </Navbar.Brand>
             <Navbar.Toggle />
           </Navbar.Header>
